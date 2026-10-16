@@ -1,4 +1,6 @@
-streamlit>=1.50,<2
+streamlit>=1.36,<2
 pandas>=2.2,<3
-requests>=2.32,<3
-plotly>=5.24,<8
+numpy>=1.26,<3
+plotly>=5.20,<7
+requests>=2.31,<3
+pycountry>=23.12.11
