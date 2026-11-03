@@ -1,6 +1,9 @@
-streamlit>=1.36,<2
-pandas>=2.2,<3
-numpy>=1.26,<3
-plotly>=5.20,<7
-requests>=2.31,<3
-pycountry>=23.12.11
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+html5lib>=1.1
+xlrd>=2.0.1
+openpyxl>=3.1
